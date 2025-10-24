@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="60" viewBox="0 0 300 60" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">Kerala Consulting</title>
+  <desc id="logoDesc">Kerala Consulting logo — stylized initials KC with green accent</desc>
+  <rect width="300" height="60" rx="6" fill="#ffffff"/>
+  <g transform="translate(12,8)">
+    <circle cx="22" cy="22" r="20" fill="#00695c" />
+    <text x="22" y="28" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#fff" font-weight="700">KC</text>
+  </g>
+  <text x="64" y="38" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#004d40">Kerala Consulting</text>
+</svg>

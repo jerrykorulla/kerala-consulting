@@ -84,3 +84,26 @@ form button:hover {
     color: #00695c;
     font-weight: bold;
 }
+
+/* Logo and header styles */
+.site-header {
+    padding: 0.6rem 1rem;
+    display: flex;
+    align-items: center;
+    background: #ffffff; /* keep header neutral */
+}
+.site-logo {
+    display: inline-block;
+    line-height: 0; /* remove image descender gap */
+    text-decoration: none;
+}
+.site-logo img {
+    height: 48px;
+    width: auto;
+    display: block;
+    max-width: 100%;
+}
+
+@media (max-width: 480px) {
+    .site-logo img { height: 36px; }
+}
