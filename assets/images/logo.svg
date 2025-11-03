@@ -1,10 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="60" viewBox="0 0 300 60" role="img" aria-labelledby="logoTitle logoDesc">
-  <title id="logoTitle">Kerala Consulting</title>
-  <desc id="logoDesc">Kerala Consulting logo — stylized initials KC with green accent</desc>
-  <rect width="300" height="60" rx="6" fill="#ffffff"/>
-  <g transform="translate(12,8)">
-    <circle cx="22" cy="22" r="20" fill="#00695c" />
-    <text x="22" y="28" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#fff" font-weight="700">KC</text>
-  </g>
-  <text x="64" y="38" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#004d40">Kerala Consulting</text>
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1450 260"
+     preserveAspectRatio="xMinYMid meet"
+     role="img"
+     aria-labelledby="title desc"
+     style="width:100%;height:auto;display:block;overflow:visible;"
+     xml:space="preserve">
+
+  <title id="title">keralaconsulting.com — Success Through Perseverance</title>
+  <desc id="desc">Logo wordmark "keralaconsulting.com" with a green-blue-green color scheme and the tagline right-aligned beneath it.</desc>
+
+  <defs>
+    <style>
+      text { white-space: pre; }
+      .wordmark { font-family: "Montserrat", "Segoe UI", "Helvetica Neue", Arial, sans-serif; font-weight:700; font-size:120px; }
+      .tagline  { font-family: "Montserrat", "Segoe UI", "Helvetica Neue", Arial, sans-serif; font-weight:500; font-size:42px; }
+      .green { fill: #2E6A37; }
+      .blue  { fill: #2E5593; }
+    </style>
+  </defs>
+
+  <!-- Wordmark -->
+  <text class="wordmark" x="20" y="130" dominant-baseline="alphabetic">
+    <tspan class="green">kerala</tspan><tspan class="blue">consulting</tspan><tspan class="green">.com</tspan>
+  </text>
+
+  <!-- Tagline: right aligned with end of wordmark -->
+  <text class="tagline green" x="1430" y="195" text-anchor="end" dominant-baseline="alphabetic">
+    Success Through Perseverance
+  </text>
 </svg>
