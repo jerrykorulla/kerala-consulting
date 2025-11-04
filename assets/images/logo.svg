@@ -1,32 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg"
-     viewBox="0 0 1450 260"
-     preserveAspectRatio="xMinYMid meet"
-     role="img"
-     aria-labelledby="title desc"
-     style="width:100%;height:auto;display:block;overflow:visible;"
-     xml:space="preserve">
-
-  <title id="title">keralaconsulting.com — Success Through Perseverance</title>
-  <desc id="desc">Logo wordmark "keralaconsulting.com" with a green-blue-green color scheme and the tagline right-aligned beneath it.</desc>
-
-  <defs>
-    <style>
-      text { white-space: pre; }
-      .wordmark { font-family: "Montserrat", "Segoe UI", "Helvetica Neue", Arial, sans-serif; font-weight:700; font-size:120px; }
-      .tagline  { font-family: "Montserrat", "Segoe UI", "Helvetica Neue", Arial, sans-serif; font-weight:500; font-size:42px; }
-      .green { fill: #2E6A37; }
-      .blue  { fill: #2E5593; }
-    </style>
-  </defs>
-
-  <!-- Wordmark -->
-  <text class="wordmark" x="20" y="130" dominant-baseline="alphabetic">
-    <tspan class="green">kerala</tspan><tspan class="blue">consulting</tspan><tspan class="green">.com</tspan>
-  </text>
-
-  <!-- Tagline: right aligned with end of wordmark -->
-  <text class="tagline green" x="1430" y="195" text-anchor="end" dominant-baseline="alphabetic">
-    Success Through Perseverance
-  </text>
+<svg width="2048" height="512" xmlns="http://www.w3.org/2000/svg">
+  <path d="M248.712 385.825c13.491 8.584 47.408-.339 52.47-1.746-7.92 8.648-34.532 17.483-45.78 18.76-27.809 3.155-42.123-27.024-87.532-15.836 19.507-23.687 58.56-12.576 80.842-1.178m84.02-177.625c13.297 1.51 25.987 8.328 26 23-17.51-1.634-25.25-3.635-26-23" style="display:inline;fill:#248"/>
+  <path d="M259.841 276.231c-4.996-19.858-4.826-35.253 3.75-54.562 5.32.858 14.886 11.387 15.52 14.79-6.265 41.937 20.828 57.042 56.48 58.21 1.518 5.665 4.691 11.068 5 17-24.257 4.8-51.83 2.783-71-21" fill="#248"/>
+  <path d="M262.998 138.812c23.064 12.183 26.282 16.193 19.811 42.312-14.968-13.865-31.528-25.478-52.437-27.437-25.706 3.155-41.606 11.979-46.23 60.13-3.645 22.27 63.558 79.23 75.48 66.589-5.945 21.95-.565 15.72-6.609 31.283-57.688-45.805-81.154-56.737-89.204-96.565-2.884-20.91.547-36.826 12.65-52.92 20.61-26.62 55.683-38.337 86.537-23.394m193.078 131.816c0 19.92-67.89 45.57-97 30-.433-8.155.706-15.177 3-23 35.589 11.539 59.868 10.248 94-7m-74.921 48.002c5.673 20.212 1.288 58.35-30 51 26.271-11.61 16.002-42.65 14-48z" fill="#248"/>
+  <path d="M424.591 307.67c1.056 65-41.096 114.584-84.28 97.618-13.19-5.745-21.018-12.225-25.72-24.618-6.139-29.135 8.878-38.365 29-39l1 15c-45.308 4.105 21.558 75.18 55.172-1.98 9.806-20.778-2.534-43.724 24.828-47.02" fill="#248"/>
+  <path d="M382.396 48.507c-3.88 30.024.097.404-8 72-13.03-12.84-.305-.947-13-13-6.438 12.13-12.963 24.207-20 36l-25-10c25.096-39.186.218.439 25-39-6.71-1.86-13.4-3.784-20-6 60.91-39.342.016.057 61-40" style="display:inline;fill:#594"/>
+  <path d="M261.468 362.903c9.552 5.926 33.565-.234 37.147-1.206-5.606 5.97-24.447 12.07-32.41 12.952-19.689 2.178-29.823-18.657-61.971-10.933 13.81-16.353 41.459-8.682 57.234-.813" style="display:inline;fill:#248;stroke-width:.699128"/>
+  <path d="M269.376 340.875c5.87 5.926 20.624-.234 22.825-1.206-3.445 5.97-15.021 12.07-19.914 12.951-12.097 2.18-18.324-18.656-38.078-10.932 8.486-16.353 25.475-8.682 35.167-.813" style="display:inline;fill:#248;stroke-width:.548019"/>
+  <path style="display:inline;fill:#248;fill-opacity:1" d="M288.864 185.9v-26.235c56.368-18.594 72.189-9.732 91.398 3.95 33.917 36.191 37.336 57.305 45.7 105.502h-12.413c-17.355-46.325-2.496-46.756-42.878-83.217-20.428-15.848-27.891-23.87-81.807 0"/>
+  <path d="M460 532c1.437.6 12.742 6.813 16 17-87.588 88.693-165.864 99.378-167 99 61.91-26.805 127.632-88.27 151-116" fill="#594" transform="translate(-256 -256)" style="display:inline"/>
+  <circle style="display:inline;fill:#594" cx="256" cy="100" r="20"/>
+  <text x="512" y="256" dominant-baseline="alphabetic" style="font-weight:700;font-size:128px;font-family:Montserrat,&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif;white-space:pre;display:inline;fill:#248">keralaconsulting.com</text>
+  <text x="512" y="356" dominant-baseline="alphabetic" style="font-weight:500;font-size:64px;font-family:Montserrat,&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,Arial,sans-serif;white-space:pre;display:inline;fill:#594"> Success Through Perseverance</text>
 </svg>
