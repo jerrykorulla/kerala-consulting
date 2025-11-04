@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2048"
+   height="512"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="kc_full.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.8007812"
+     inkscape:cx="1024"
+     inkscape:cy="255.72234"
+     inkscape:window-width="3840"
+     inkscape:window-height="2126"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13" />
+  <path
+     d="m 248.712,385.825 c 13.491,8.584 47.408,-0.339 52.47,-1.746 -7.92,8.648 -34.532,17.483 -45.78,18.76 -27.809,3.155 -42.123,-27.024 -87.532,-15.836 19.507,-23.687 58.56,-12.576 80.842,-1.178"
+     style="display:inline;fill:#224488"
+     id="path6"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="m 332.73192,208.19957 c 13.297,1.51 25.987,8.328 26,23 -17.51,-1.634 -25.25,-3.635 -26,-23"
+     style="display:inline;fill:#224488"
+     id="path6-4"
+     sodipodi:nodetypes="ccc" />
+  <path
+     d="m 259.841,276.231 c -4.996,-19.858 -4.826,-35.253 3.75,-54.562 5.32,0.858 14.886,11.387 15.52,14.79 -6.265,41.937 20.828,57.042 56.48,58.21 1.518,5.665 4.691,11.068 5,17 -24.257,4.8 -51.83,2.783 -71,-21"
+     fill="#224488"
+     style="display:inline"
+     id="path1" />
+  <path
+     d="m 262.998,138.812 c 23.064,12.183 26.282,16.193 19.811,42.312 -14.968,-13.865 -31.528,-25.478 -52.437,-27.437 -25.706,3.155 -41.606,11.979 -46.23,60.13 -3.645,22.27 63.558,79.23 75.48,66.589 -5.945,21.95 -0.565,15.72 -6.609,31.283 -57.688,-45.805 -81.154,-56.737 -89.204,-96.565 -2.884,-20.91 0.547,-36.826 12.65,-52.92 20.61,-26.62 55.683,-38.337 86.537,-23.394"
+     fill="#224488"
+     style="display:inline"
+     id="path2" />
+  <path
+     d="m 434.718,190.196 c 0,19.92 -67.89,45.57 -97,30 -0.433,-8.155 0.706,-15.177 3,-23 35.589,11.539 59.868,10.248 94,-7"
+     fill="#224488"
+     style="display:inline"
+     transform="translate(21.356,80.43)"
+     id="path3" />
+  <path
+     d="m 504.354,404.298 c 5.673,20.212 1.288,58.35 -30,51 26.271,-11.61 16.002,-42.65 14,-48 z"
+     fill="#224488"
+     style="display:inline"
+     transform="translate(-123.201,-85.67)"
+     id="path4" />
+  <path
+     d="m 424.591,307.67 c 1.056,65 -41.096,114.584 -84.28,97.618 -13.19,-5.745 -21.018,-12.225 -25.72,-24.618 -6.139,-29.135 8.878,-38.365 29,-39 l 1,15 c -45.308,4.105 21.558,75.18 55.172,-1.98 9.806,-20.778 -2.534,-43.724 24.828,-47.02"
+     fill="#224488"
+     style="display:inline"
+     id="path5" />
+  <path
+     d="m 382.396,48.507 c -3.88,30.024 0.097,0.404 -8,72 -13.03,-12.84 -0.305,-0.947 -13,-13 -6.438,12.13 -12.963,24.207 -20,36 l -25,-10 c 25.096,-39.186 0.218,0.439 25,-39 -6.71,-1.86 -13.4,-3.784 -20,-6 60.91,-39.342 0.016,0.057 61,-40"
+     style="display:inline;fill:#559944"
+     id="path7" />
+  <path
+     d="m 261.468,362.903 c 9.552,5.926 33.565,-0.234 37.147,-1.206 -5.606,5.97 -24.447,12.07 -32.41,12.952 -19.689,2.178 -29.823,-18.657 -61.971,-10.933 13.81,-16.353 41.459,-8.682 57.234,-0.813"
+     style="display:inline;fill:#224488;stroke-width:0.699128"
+     id="path8" />
+  <path
+     d="m 269.376,340.875 c 5.87,5.926 20.624,-0.234 22.825,-1.206 -3.445,5.97 -15.021,12.07 -19.914,12.951 -12.097,2.18 -18.324,-18.656 -38.078,-10.932 8.486,-16.353 25.475,-8.682 35.167,-0.813"
+     style="display:inline;fill:#224488;stroke-width:0.548019"
+     id="path9" />
+  <path
+     style="display:inline;fill:#224488;fill-opacity:1"
+     d="m 288.864,185.9 v -26.235 c 56.368,-18.594 72.189,-9.732 91.398,3.95 33.917,36.191 37.336,57.305 45.7,105.502 h -12.413 c -17.355,-46.325 -2.496,-46.756 -42.878,-83.217 -20.428,-15.848 -27.891,-23.87 -81.807,0"
+     id="path11" />
+  <path
+     d="m 460,532 c 1.437,0.6 12.742,6.813 16,17 -87.588,88.693 -165.864,99.378 -167,99 61.91,-26.805 127.632,-88.27 151,-116"
+     fill="#559944"
+     transform="translate(-256,-256)"
+     style="display:inline"
+     id="path12" />
+  <circle
+     style="display:inline;fill:#559944"
+     cx="256"
+     cy="100"
+     id="ellipse12"
+     r="20" />
+  <text
+     x="512"
+     y="256"
+     dominant-baseline="alphabetic"
+     style="font-weight:700;font-size:128px;font-family:Montserrat, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;white-space:pre;display:inline;fill:#224488"
+     id="text12">keralaconsulting.com</text>
+  <text
+     x="512"
+     y="356"
+     dominant-baseline="alphabetic"
+     style="font-weight:500;font-size:64px;font-family:Montserrat, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;white-space:pre;display:inline;fill:#559944"
+     id="text13"> Success Through Perseverance</text>
+</svg>
