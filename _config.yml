@@ -1,0 +1,60 @@
+# Jekyll Configuration for Kerala Consulting
+
+# Site settings
+title: Kerala Consulting
+email: info@keralaconsulting.com
+description: >-
+  Your trusted local business partner in Kerala, India. 
+  We provide consulting services, digital solutions, and business liaison 
+  for companies in Americas and Europe.
+baseurl: ""
+url: "https://keralaconsulting.com"
+
+# SEO settings
+author: Kerala Consulting
+lang: en
+
+# Social media
+facebook_url: https://www.facebook.com/keralaconsulting
+linkedin_url: https://www.linkedin.com/company/keralaconsulting
+
+# Location
+location:
+  city: Kerala
+  region: Kerala
+  country: India
+  country_code: IN-KL
+  latitude: "10.8505"
+  longitude: "76.2711"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude files from the build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Include files
+include:
+  - _pages
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:name
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
