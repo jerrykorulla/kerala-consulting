@@ -5,35 +5,51 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala Consulting - About Us</title>
     <meta name="description" content="Learn about Kerala Consulting, our experienced team, and our commitment to providing expert business advice and solutions in Kerala.">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header class="site-header">
-        <a href="index.html" class="site-logo" title="Kerala Consulting home">
-            <img src="assets/images/logo.svg" alt="Kerala Consulting — consulting and services">
-        </a>
-    </header>
-    <nav>
-        <button class="menu-toggle" aria-label="Toggle menu" aria-expanded="false">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M3 12H21M3 6H21M3 18H21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-            </svg>
-        </button>
-        <ul>
-            <li><a href="index.html">Welcome</a></li>
-            <li><a href="services.html">Services</a></li>
-            <li><a href="about.html">About Us</a></li>
-            <li><a href="contact.html">Contact Us</a></li>
-        </ul>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="index.html">
+                <img src="assets/images/logo.svg" alt="Kerala Consulting" height="80">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Welcome</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="services.html">Services</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="about.html">About Us</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contact.html">Contact Us</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
     </nav>
-    <main>
-        <h1>About Kerala Consulting</h1>
-        <p>Kerala Consulting is dedicated to providing expert business advice and solutions tailored to the unique needs of Kerala's market. Our experienced team helps clients achieve their goals with integrity and professionalism.</p>
-        <p>We take pride in our team of seasoned professionals, each bringing more than 10 years of industry experience to the table. This wealth of expertise ensures that our clients receive the highest quality consulting services backed by deep market knowledge and proven methodologies.</p>
-    </main>
-    <footer>
-        <p>&copy; 2025 Kerala Consulting. All rights reserved.</p>
+    <div class="container my-5">
+        <div class="row">
+            <div class="col-lg-8 mx-auto">
+                <h1 class="display-4 mb-4">About Kerala Consulting</h1>
+                <p class="lead">Kerala Consulting is dedicated to providing expert business advice and solutions tailored to the unique needs of Kerala's market. Our experienced team helps clients achieve their goals with integrity and professionalism.</p>
+                <p>We take pride in our team of seasoned professionals, each bringing more than 10 years of industry experience to the table. This wealth of expertise ensures that our clients receive the highest quality consulting services backed by deep market knowledge and proven methodologies.</p>
+            </div>
+        </div>
+    </div>
+    <footer class="bg-success text-white text-center py-3 mt-auto">
+        <div class="container">
+            <p class="mb-0">&copy; 2025 Kerala Consulting. All rights reserved.</p>
+        </div>
     </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
