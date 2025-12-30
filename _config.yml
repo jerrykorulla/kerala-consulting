@@ -33,6 +33,18 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-compress-html
+
+# HTML compression
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+  ignore:
+    envs: []
 
 # Exclude files from the build
 exclude:

@@ -1,0 +1,25 @@
+# Jekyll build files
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Dependencies
+Gemfile.lock
+node_modules/
+vendor/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+
+# OS files
+*.log
